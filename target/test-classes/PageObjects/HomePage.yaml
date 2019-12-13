@@ -1,0 +1,11 @@
+pageName: HomePage
+locator:
+  titleElement:
+    typeOfLocator: xpath
+    attributeValue: "//h1//img"
+  menuHowToOrder:
+    typeOfLocator: xpath
+    attributeValue: "//a[contains(text(),'How to Order')]"
+
+
+

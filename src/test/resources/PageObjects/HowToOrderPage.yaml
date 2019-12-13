@@ -1,0 +1,7 @@
+pageName: HowToOrderPage
+locator:
+  inputSearchBook:
+    typeOfLocator: id
+    attributeValue: "keyword"
+   
+
