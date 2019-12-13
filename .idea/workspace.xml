@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d2ef5e2-62a4-4ed3-8dce-919e67610310" name="Default Changelist" comment="" />
+    <list default="true" id="8d2ef5e2-62a4-4ed3-8dce-919e67610310" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/Assertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/Assertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber1.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Scriptless" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,23 +36,25 @@
   <component name="ProjectId" id="1UVxjZMQb125VQgCQtAyovhpgZF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\main\resources" />
-      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\java" />
-      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rajat.sanu\Work\New\Scriptless" />
+      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\resources\features" />
+      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\resources\PageObjects" />
+      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\resources\executable" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
       <recent name="stepDefination" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\resources\features" />
-      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\resources\PageObjects" />
-      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\resources\executable" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\main\resources" />
+      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test\java" />
+      <recent name="C:\Users\rajat.sanu\Work\Scriptless\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
