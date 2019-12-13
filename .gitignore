@@ -1,0 +1,8 @@
+*.project
+*.class
+*.classpath
+/target/*
+*.idea
+/test-report/
+Scriptless.iml
+/bin/
