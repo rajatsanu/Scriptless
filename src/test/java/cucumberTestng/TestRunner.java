@@ -18,14 +18,14 @@ public class TestRunner extends AbstractTestNGCucumberTests {
 
     @BeforeClass
     public static void loadPageObjects() throws Throwable {
-        System.out.println("########### BEFORE CLASS ###########");
+        System.out.println(" ########### BEFORE CLASS ########### ");
         Core.getInstance();
         Core.report = new ExtentReports("target\\report.html",true);
     }
 
     @AfterClass
     public static void end(){
-        System.out.println("########### AFTER CLASS ###########");
+        System.out.println(" ########### AFTER CLASS ########### ");
         Core.report.flush();
         Core.closeDriver();
     }
